@@ -1,0 +1,4 @@
+default:
+  stylesheets:
+    - /opSkinTwitterlikePlugin/css/main.css
+
