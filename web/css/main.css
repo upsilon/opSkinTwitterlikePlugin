@@ -90,7 +90,7 @@ div#ContentsContainer {
 }
 
 div#LayoutA {
-  overflow: auto;
+  overflow: hidden;
 }
 
 div#Top {
@@ -108,6 +108,9 @@ div#Left {
   float: right;
   width: 200px;
   padding-top: 10px;
+
+  height: 32767px;
+  margin-bottom: -32767px;
 }
 
 div#sideBanner {
